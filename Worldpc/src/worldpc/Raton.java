@@ -1,5 +1,5 @@
 package worldpc;
 
-public class Raton {
+public class Raton extends DispositivoEntrada{
 
 }
